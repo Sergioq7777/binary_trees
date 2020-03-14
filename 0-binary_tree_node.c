@@ -2,9 +2,9 @@
 /**
  * binary_tree_node - Create new node
  *
- * @parent: Pointer to the parent node
- * @value: value to insert
- * Return: new node
+ * @parent: Pointer
+ * @value: value
+ * Return: New node
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
